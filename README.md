@@ -59,4 +59,4 @@ overall performance with highest interpretability.
 
 ## Authors
 
-Reine Rahim & Jane Ibrahim — University of Balamand, CSIS290
+Reine Rahim & Jane Ibrahim - University of Balamand, CSIS290
